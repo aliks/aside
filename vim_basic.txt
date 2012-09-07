@@ -1,0 +1,20 @@
+create a new tab
+abbrev ff open file in firefox
+nmap <space> :
+buffers - files in memory
+ls - list buffers
+:n * 
+:b number - open file from buffer which is "number" in a list
+:b file name
+:db - close specific buffer (buffer delete)
+:db! - force saving
+:ball - opens all files stored in a buffer
+
+shift command F - full screen
+
+:vsp [filaname] - vertical split to right
+:bel vsp [filename] - vertical split to left 
+
+snippet
+
+
