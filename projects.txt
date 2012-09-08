@@ -1,0 +1,9 @@
+A CASE Framework/Tool Set for MetaUML (ID: 1925) - Tim Storer
+
+Raspberry Pi Java runtime - Jikes RVM (ID: 1885) - Jeremy ???
+
+In-car interactions using pressure and gesture (ID: 1913) - Brewster
+
+Using mobile phones to measure physical activity (ID: 1906)
+
+Using mobile phones to improve sports performance (ID: 1904)
