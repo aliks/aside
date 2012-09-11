@@ -1,9 +1,9 @@
-2. Using mobile phones to measure physical activity (ID: 1906)
+A CASE Framework/Tool Set for MetaUML (ID: 1925) - Tim Storer
 
-3. Using mobile phones to improve sports performance (ID: 1904)
+Raspberry Pi Java runtime - Jikes RVM (ID: 1885) - Jeremy ???
 
-4. Location, Location, Location! A Geographical search tool for tweets - Iadh
+In-car interactions using pressure and gesture (ID: 1913) - Brewster
 
-5. Mining Location-based Tweets within Cities (ID: 1996)
+Using mobile phones to measure physical activity (ID: 1906)
 
-1. Investigating the balance between privacy and utility in mobile applications (an implementation of a mobile tracking system) (ID: 1944)
+Using mobile phones to improve sports performance (ID: 1904)
